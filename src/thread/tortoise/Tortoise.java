@@ -24,10 +24,10 @@ public class Tortoise extends Thread {
                     System.out.println("The Tortoise has reached the Mountain Hill!");
                     break;
                 case 3:
-                    System.out.println("The Tortoise has reached the Big Oak Tree");
+                    System.out.println("The Tortoise has reached the Big Oak Tree!");
                     break;
                 case 4:
-                    System.out.println("The Rabbit has reached the finish line!");
+                    System.out.println("The Tortoise has reached the finish line!");
                     break;
             }
             try {
